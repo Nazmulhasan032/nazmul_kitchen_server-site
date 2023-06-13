@@ -1,0 +1,56 @@
+[
+    {
+      "id": "6450e024f1b2803baf7984b1",
+      "picture": "https://i.ibb.co/cbbskbz/chief1.jpg",
+      "name": "Browning Webster",
+      "experience": 6,
+      "likes": 40050,
+      "recipe": 18,
+      "bio": "Browning Webster is an accomplished chef with over 15 years of experience in the culinary industry. He has worked in renowned restaurants across the globe, refining his skills and passion for creating extraordinary dishes. John's culinary journey began at a young age, inspired by his grandmother's traditional recipes. Today, he is known for his expertise in fusion cuisine, where he combines diverse flavors and techniques to deliver unique culinary experiences."
+    },
+    {
+      "id": "6450e0248916bce7c75aa7dd",
+      "picture": "https://i.ibb.co/4YX2Lqc/chief2.jpg",
+      "name": "Singleton Pierce",
+      "experience": 7,
+      "likes": 50052,
+      "recipe": 16,
+      "bio": "Singleton Pierce is a talented chef with a deep love for culinary arts. Her passion for cooking emerged during childhood, as she watched her mother create delicious meals in the family kitchen. Maria's culinary journey led her to study in prestigious culinary schools across Spain, where she honed her skills and developed a refined understanding of Spanish cuisine. Her innovative approach to traditional dishes and her artistic plating have garnered her acclaim in the culinary world."
+    },
+    {
+      "id": "6450e024efb077778559f842",
+      "picture": "https://i.ibb.co/sRdb0c9/chief3.jpg",
+      "name": "Pamela Mcgee",
+      "experience": 17,
+      "likes": 51542,
+      "recipe": 10,
+      "bio": "Pamela Mcgee is an accomplished chef with over 15 years of experience in the culinary industry. He has worked in renowned restaurants across the globe, refining his skills and passion for creating extraordinary dishes. John's culinary journey began at a young age, inspired by his grandmother's traditional recipes. Today, he is known for his expertise in fusion cuisine, where he combines diverse flavors and techniques to deliver unique culinary experiences."
+    },
+    {
+      "id": "6450e024ef9134735e3fb97a",
+      "picture": "https://i.ibb.co/bXTm3n8/chief4.jpg",
+      "name": "Jeannie Pace",
+      "experience": 10,
+      "likes": 11452,
+      "recipe": 28,
+      "bio": "Jeannie Pace is a highly skilled chef with a passion for culinary excellence. His culinary journey began in his grandmother's kitchen, where he learned traditional Chinese recipes and techniques. David's love for cooking took him on a global exploration of flavors, working in renowned restaurants and learning from master chefs. With his extensive knowledge of Asian cuisine and his innovative approach to fusion dishes, David creates unforgettable culinary experiences that blend tradition with innovation."
+    },
+    {
+      "id": "6450e024ef9134735e3fb89a",
+      "picture": "https://i.ibb.co/bPDBCqH/chief5.jpg",
+      "name": "Jeannifer lorance",
+      "experience": 8,
+      "likes": 4675,
+      "recipe": 18,
+      "bio": "Emma Wilson is a passionate chef with a love for creating exceptional culinary delights. Growing up in a British household known for its love of food, she developed a deep appreciation for the art of cooking. Emma's culinary journey took her to Italy, where she trained under renowned Italian chefs and learned the secrets of authentic Italian cuisine. Her commitment to using fresh, locally sourced ingredients and her attention to detail result in dishes that are both visually stunning and bursting with flavor."
+    },
+    {
+      "id": "6450e0240744a8aa719efb44",
+      "picture": "https://i.ibb.co/RQR4bP5/chief6.jpg",
+      "name": "Willis Case",
+      "experience": 9,
+      "likes": 34125,
+      "recipe": 19,
+      "bio": "Mohammed Ahmed is a highly skilled chef with a deep passion for his Egyptian culinary heritage. His journey began in his family's kitchen, where he learned the traditional recipes and techniques passed down through generations. Mohammed's dedication to preserving and celebrating the flavors of Egypt is reflected in his culinary creations. He constantly explores new ingredients and cooking methods to create contemporary dishes that pay homage to the rich culinary traditions of his homeland."
+    }
+  ]
